@@ -106,7 +106,5 @@ The dashboard acts as a powerful reporting assistant for project commercial trac
 ---
 
 ## 📊 Dashboard  
-![Alt text](https://github.com/Ahmed-Kazlak/Commercial-Data-Analysis-Solution/blob/main/1.png)
 
-![Alt text](https://github.com/Ahmed-Kazlak/Commercial-Data-Analysis-Solution/blob/main/2.png)
 
